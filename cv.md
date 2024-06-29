@@ -22,15 +22,30 @@
  ------
  ```c++
  #include <iostream>
-#include <cstdio>
-#include <cmath>
-#include <cstring>
 using namespace std;
-
-unsigned int factorial(int a) {
-         int r=1;
-         for (int i=a;i>0;i--) r*=i;
-         return r;
+int main()
+{
+    char op;
+    float num1, num2;
+ cin >> op;
+ cin >> num1 >> num2;
+  switch (op) {
+    case '+':
+        cout << num1 + num2;
+        break;
+    case '-':
+        cout << num1 - num2;
+        break;
+    case '*':
+        cout << num1 * num2;
+        break;
+    case '/':
+        cout << num1 / num2;
+        break;
+    default:
+        cout << "Error! operator is not correct";
+    }
+     return 0;
 }
 ``````
 
