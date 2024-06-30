@@ -21,8 +21,13 @@
 
  * I am 23 years old, I work as a cherical assistant. I am a 4th year student at Voronezh State Technical University.I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
+
+
+
  ## Skills
- -------
+ --------
+
+
  * HTML
 
 
