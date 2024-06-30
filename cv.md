@@ -25,7 +25,7 @@
 
 
 ## Skills
-
+-------
 
  * HTML
 
@@ -41,7 +41,7 @@
 
 
 ## Code example
-
+--------
 
  ```c++
  #include <iostream>
