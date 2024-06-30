@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marmiia.github.io/rsschool-cv/cv
