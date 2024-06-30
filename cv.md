@@ -25,7 +25,7 @@
 
 
  ## Skills
- --------
+-------
 
 
  * HTML
@@ -40,7 +40,9 @@
 
 
  ## Code example
- ------
+------
+
+
  ```c++
  #include <iostream>
 using namespace std;
