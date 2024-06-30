@@ -23,6 +23,7 @@
 
 
 
+------
 
  ## Skills
 
@@ -37,6 +38,8 @@
  * Git/GitHub
 
 
+
+---------
 
 
  ## Code example
