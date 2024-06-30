@@ -24,8 +24,7 @@
 
 
 
- ## Skills
- ------
+## Skills
 
 
  * HTML
@@ -41,8 +40,7 @@
 
 
 
- ## Code example
- ------
+## Code example
 
 
  ```c++
